@@ -23,11 +23,11 @@
 
 Caso você deseja executar o projeto na sua máquina local, basta seguir os passos abaixo:
 
-## 🌀 Começando... 
+### 🌀 Começando... 
 
 Para começar, você deve simplesmente clonar o repositório do projeto na sua máquina e instalar as dependências.
 
-## Instalando as Dependências (via Windows): ❗️
+#### Instalando as Dependências (via Windows): ❗️
 
 Abre o cmd (caso esteja utilizando o Windows) e digite a path do seu projeto
 
@@ -45,7 +45,7 @@ Ao digitar a instrução acima, automaticamente ele irá baixar todas as depend�
 
 * `node_modules` - que contêm os packages do npm que precisará para o projeto.
 
-## 💨 Executando a Aplicação 
+#### 💨 Executando a Aplicação 
 
 Bom, agora na mesma tela do cmd, basta iniciar o server para o projeto ser executado localmente.
 
