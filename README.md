@@ -1,4 +1,8 @@
-# Aplicação Todo List Vue.js 2 com SWA + GitHub Actionsns
+# Aplicação Todo List Vue.js 2 com SWA + GitHub Actions
+
+
+
+Repositório responsável pela demo desenvolvida para fins de ensinar como realizar deploy automático e integrado usando o **[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=vuechatapp_swa-github-gllemos)** e **[GitHub Actions](https://help.github.com/pt/actions)**
 
 ## 🚀 Recursos Utilizados
 
