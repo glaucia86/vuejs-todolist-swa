@@ -8,7 +8,7 @@
 * **[Node.Js](https://nodejs.org/en/)**
 * **[Semantic UI](https://semantic-ui.com/)**
 * **[SweetAlert 2](https://sweetalert2.github.io/)**
-* **[Vue](https://vuejs.org/)**
+* **[Vue.js](https://vuejs.org/)**
 * **[Vue CLI](https://cli.vuejs.org/)**
 * **Extensões Vue.js Usadas no Projeto**
     - **[Vue 2 Snippets:](https://marketplace.visualstudio.com/items?itemName=hollowtree.vue-snippets&WT.mc_id=vuechatapp_swa-github-gllemos)**
