@@ -1,4 +1,4 @@
-# Aplicação Chat em Tempo Real com Vue
+# Aplicação Chat em Tempo Real com Vue.js + SWA + GitHub Actions
 
 > Projeto baseado no artigo **[SitePoint](https://aka.ms/AA6x920)**
 
@@ -19,7 +19,7 @@
     - **[Vue](https://marketplace.visualstudio.com/items?itemName=liuji-jim.vue&WT.mc_id=vuechatapp_swa-github-gllemos)**
     - **[Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets&WT.mc_id=vuechatapp_swa-github-gllemos)**
 
-## 🔥 Executar Localmente o Projeto 
+## 🔥 Executando Localmente a Aplicação 
 
 Caso você deseja executar o projeto na sua máquina local, basta seguir os passos abaixo:
 
@@ -27,7 +27,7 @@ Caso você deseja executar o projeto na sua máquina local, basta seguir os pass
 
 Para começar, você deve simplesmente clonar o repositório do projeto na sua máquina e instalar as dependências.
 
-#### Instalando as Dependências (via Windows): ❗️
+#### ❗️ Instalando as Dependências (via Windows): 
 
 Abre o cmd (caso esteja utilizando o Windows) e digite a path do seu projeto
 
