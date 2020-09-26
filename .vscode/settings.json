@@ -1,0 +1,5 @@
+{
+    "staticWebApps.appSubpath": "todo-list",
+    "staticWebApps.apiSubpath": "todo-list",
+    "staticWebApps.appArtifactSubpath": "dist"
+}
