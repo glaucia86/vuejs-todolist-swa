@@ -2,7 +2,6 @@
   "name": "todo-list",
   "version": "0.1.0",
   "author": "Glaucia Lemos",
-  "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -10,14 +9,14 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue-router": "^3.0.1",
     "sweetalert": "^2.1.2",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "vue-router": "^3.0.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
     "@vue/cli-plugin-eslint": "~4.4.0",
-    "@vue/cli-service": "~4.4.0",
+    "@vue/cli-service": "^4.5.13",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
