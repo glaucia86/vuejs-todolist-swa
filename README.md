@@ -68,7 +68,7 @@ Abaixo seguem alguns links e recursos importantes sobre SWA e GitHub Actions:
 - ✅ **[Implementando Azure Static Web Apps no Next.js](https://docs.microsoft.com/pt-br/azure/static-web-apps/deploy-nextjs/?WT.mc_id=javascript-23665-gllemos)**
 - ✅ **[Implementando Azure Static Web Apps no Nuxt.js](https://docs.microsoft.com/azure/static-web-apps/deploy-nuxtjs/?WT.mc_id=javascript-23665-gllemos)**
 - ✅ **[Implementando Azure Static Web Apps no Jekyll](https://docs.microsoft.com/pt-br/azure/static-web-apps/publish-jekyll/?WT.mc_id=javascript-23665-gllemos)**
-- **[Artigo dev.to - Realize Deploy Automático de Projetos Estáticos com Azure Static Web Apps!](https://dev.to/azure/realize-deploy-automatico-de-projetos-estaticos-com-azure-static-web-apps-2nfj)**
+- ✅ **[Artigo dev.to - Realize Deploy Automático de Projetos Estáticos com Azure Static Web Apps!](https://dev.to/azure/realize-deploy-automatico-de-projetos-estaticos-com-azure-static-web-apps-2nfj)**
 - ✅ **[Curso Microsoft Learn - Publicando uma aplicação e API JavaScript do Angular, React, Svelte ou Vue com Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api?WT.mc_id=javascript-23665-gllemos)**
 - ✅ **[Curso Microsoft Learn - Criando e publicando uma aplicação Web estático com o Gatsby e Azure 
 Static Web Apps](https://docs.microsoft.com/learn/modules/create-deploy-static-webapp-gatsby-app-service?WT.mc_id=javascript-23665-gllemos)**
