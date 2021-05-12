@@ -59,22 +59,24 @@ Bom, agora na mesma tela do cmd, basta iniciar o server para o projeto ser execu
 Abaixo seguem alguns links e recursos importantes sobre SWA e GitHub Actions:
 
 - ✅ **[Documentação Oficial do Azure Static Web Apps
-](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=javascript-0000-gllemos)**
-
+](https://docs.microsoft.com/azure/static-web-apps/?WT.mc_id=javascript-23665-gllemos)**
+- ✅ **[Curso Grátis - Publique uma Aplicação Estática no Angular, React, Vue ou Javascript & API](https://docs.microsoft.com/pt-br/learn/modules/publish-app-service-static-web-app-api/?WT.mc_id=javascript-23665-gllemos)**
+- ✅ **[Curso Grátis - Crie e Publique um site estático com Gatsby](https://docs.microsoft.com/pt-br/learn/modules/create-deploy-static-webapp-gatsby-app-service/?WT.mc_id=javascript-23665-gllemos)**
+- ✅ **[Implementando Azure Static Web Apps no Gatsby](https://docs.microsoft.com/azure/static-web-apps/publish-gatsby/?WT.mc_id=javascript-23665-gllemos)**
+- ✅ **[Implementando Azure Static Web Apps no Hugo](https://docs.microsoft.com/azure/static-web-apps/publish-hugo/?WT.mc_id=javascript-23665-gllemos)**
+- ✅ **[Implementando Azure Static Web Apps no VuePress](https://docs.microsoft.com/azure/static-web-apps/publish-vuepress/?WT.mc_id=javascript-23665-gllemos)**
+- ✅ **[Implementando Azure Static Web Apps no Next.js](https://docs.microsoft.com/pt-br/azure/static-web-apps/deploy-nextjs/?WT.mc_id=javascript-23665-gllemos)**
+- ✅ **[Implementando Azure Static Web Apps no Nuxt.js](https://docs.microsoft.com/azure/static-web-apps/deploy-nuxtjs/?WT.mc_id=javascript-23665-gllemos)**
+- ✅ **[Implementando Azure Static Web Apps no Jekyll](https://docs.microsoft.com/pt-br/azure/static-web-apps/publish-jekyll/?WT.mc_id=javascript-23665-gllemos)**
 - **[Artigo dev.to - Realize Deploy Automático de Projetos Estáticos com Azure Static Web Apps!](https://dev.to/azure/realize-deploy-automatico-de-projetos-estaticos-com-azure-static-web-apps-2nfj)**
-
-- ✅ **[Curso Microsoft Learn - Publicando uma aplicação e API JavaScript do Angular, React, Svelte ou Vue com Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api?WT.mc_id=javascript-0000-gllemos)**
-
+- ✅ **[Curso Microsoft Learn - Publicando uma aplicação e API JavaScript do Angular, React, Svelte ou Vue com Azure Static Web Apps](https://docs.microsoft.com/learn/modules/publish-app-service-static-web-app-api?WT.mc_id=javascript-23665-gllemos)**
 - ✅ **[Curso Microsoft Learn - Criando e publicando uma aplicação Web estático com o Gatsby e Azure 
-Static Web Apps](https://docs.microsoft.com/learn/modules/create-deploy-static-webapp-gatsby-app-service?WT.mc_id=javascript-0000-gllemos)**
-
-- ✅ **[Compilando fluxos de trabalho de integração contínua (CI) com o GitHub Actions](https://docs.microsoft.com/learn/modules/github-actions-ci/?WT.mc_id=javascript-0000-gllemos)**
-
+Static Web Apps](https://docs.microsoft.com/learn/modules/create-deploy-static-webapp-gatsby-app-service?WT.mc_id=javascript-23665-gllemos)**
+- ✅ **[Compilando fluxos de trabalho de integração contínua (CI) com o GitHub Actions](https://docs.microsoft.com/learn/modules/github-actions-ci/?WT.mc_id=javascript-23665-gllemos)**
 - ✅ **[Criando Projeto no Vue-Cli](https://cli.vuejs.org/guide/creating-a-project.html#using-the-gui)** 
-- ✅ **[Crie sua primeira aplicação Vue.js no Visual Studio](https://docs.microsoft.com/visualstudio/javascript/quickstart-vuejs-with-nodejs?view=vs-2019&WT.mc_id=javascript-0000-gllemos)** 
-- ✅ **[Vue.js no Visual Studio Code](https://code.visualstudio.com/docs/nodejs/vuejs-tutorial?WT.mc_id=javascript-0000-gllemos)** 
-
-- ✅ **[Azure para desenvolvedores de JavaScript e Node.js](https://docs.microsoft.com/javascript/azure/?view=azure-node-latest&WT.mc_id=javascript-0000-gllemos)** 
+- ✅ **[Crie sua primeira aplicação Vue.js no Visual Studio](https://docs.microsoft.com/visualstudio/javascript/quickstart-vuejs-with-nodejs?view=vs-2019&WT.mc_id=javascript-23665-gllemos)** 
+- ✅ **[Vue.js no Visual Studio Code](https://code.visualstudio.com/docs/nodejs/vuejs-tutorial?WT.mc_id=javascript-23665-gllemos)** 
+- ✅ **[Azure para desenvolvedores de JavaScript e Node.js](https://docs.microsoft.com/javascript/azure/?view=azure-node-latest&WT.mc_id=javascript-23665-gllemos)** 
 
 ## 🚩 Tenho Dúvidas... O que fazer? 
 
